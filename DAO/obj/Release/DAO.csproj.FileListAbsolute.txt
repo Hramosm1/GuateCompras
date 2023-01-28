@@ -1,0 +1,16 @@
+K:\SysCoN\DAO\bin\Release\DAO.dll
+K:\SysCoN\DAO\bin\Release\DAO.pdb
+K:\SysCoN\DAO\bin\Release\Clases.dll
+K:\SysCoN\DAO\bin\Release\MySql.Data.dll
+K:\SysCoN\DAO\bin\Release\Clases.pdb
+K:\SysCoN\DAO\obj\Release\DAO.csprojResolveAssemblyReference.cache
+K:\SysCoN\DAO\obj\Release\DAO.dll
+K:\SysCoN\DAO\obj\Release\DAO.pdb
+K:\SysCoN\CodigoFuente\DAO\bin\Release\DAO.dll
+K:\SysCoN\CodigoFuente\DAO\bin\Release\DAO.pdb
+K:\SysCoN\CodigoFuente\DAO\bin\Release\Clases.dll
+K:\SysCoN\CodigoFuente\DAO\bin\Release\MySql.Data.dll
+K:\SysCoN\CodigoFuente\DAO\bin\Release\Clases.pdb
+K:\SysCoN\CodigoFuente\DAO\obj\Release\DAO.csprojResolveAssemblyReference.cache
+K:\SysCoN\CodigoFuente\DAO\obj\Release\DAO.dll
+K:\SysCoN\CodigoFuente\DAO\obj\Release\DAO.pdb

@@ -1,0 +1,15 @@
+K:\SysCoN\Clases\bin\Debug\Clases.dll
+K:\SysCoN\Clases\bin\Debug\Clases.pdb
+K:\SysCoN\Clases\obj\Debug\Clases.dll
+K:\SysCoN\Clases\obj\Debug\Clases.pdb
+D:\Documentos\Repositorios\GuateCompras\SysCoN\CodigoFuente\Clases\bin\Debug\Clases.dll
+D:\Documentos\Repositorios\GuateCompras\SysCoN\CodigoFuente\Clases\bin\Debug\Clases.pdb
+D:\Documentos\Repositorios\GuateCompras\SysCoN\CodigoFuente\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+D:\Documentos\Repositorios\GuateCompras\SysCoN\CodigoFuente\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+D:\Documentos\Repositorios\GuateCompras\SysCoN\CodigoFuente\Clases\obj\Debug\Clases.dll
+D:\Documentos\Repositorios\GuateCompras\SysCoN\CodigoFuente\Clases\obj\Debug\Clases.pdb
+D:\Documentos\Repositorios\GuateComprasOf\Clases\bin\Debug\Clases.dll
+D:\Documentos\Repositorios\GuateComprasOf\Clases\bin\Debug\Clases.pdb
+D:\Documentos\Repositorios\GuateComprasOf\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+D:\Documentos\Repositorios\GuateComprasOf\Clases\obj\Debug\Clases.dll
+D:\Documentos\Repositorios\GuateComprasOf\Clases\obj\Debug\Clases.pdb

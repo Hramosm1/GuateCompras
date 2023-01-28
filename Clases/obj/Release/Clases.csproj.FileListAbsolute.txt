@@ -1,0 +1,5 @@
+K:\SysCoN\Clases\bin\Release\Clases.dll
+K:\SysCoN\Clases\bin\Release\Clases.pdb
+K:\SysCoN\Clases\obj\Release\Clases.dll
+K:\SysCoN\Clases\obj\Release\Clases.pdb
+K:\SysCoN\Clases\obj\Release\Clases.csprojResolveAssemblyReference.cache
