@@ -13,3 +13,9 @@ D:\Documentos\Repositorios\GuateComprasOf\Clases\bin\Debug\Clases.pdb
 D:\Documentos\Repositorios\GuateComprasOf\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
 D:\Documentos\Repositorios\GuateComprasOf\Clases\obj\Debug\Clases.dll
 D:\Documentos\Repositorios\GuateComprasOf\Clases\obj\Debug\Clases.pdb
+C:\Users\ragonzalez\Documents\GuateCompras\Clases\bin\Debug\Clases.dll
+C:\Users\ragonzalez\Documents\GuateCompras\Clases\bin\Debug\Clases.pdb
+C:\Users\ragonzalez\Documents\GuateCompras\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\ragonzalez\Documents\GuateCompras\Clases\obj\Debug\Clases.dll
+C:\Users\ragonzalez\Documents\GuateCompras\Clases\obj\Debug\Clases.pdb
+C:\Users\ragonzalez\Documents\GuateCompras\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache

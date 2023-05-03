@@ -26,3 +26,13 @@ D:\Documentos\Repositorios\GuateComprasOf\DAO\obj\Debug\DAO.csproj.CoreCompileIn
 D:\Documentos\Repositorios\GuateComprasOf\DAO\obj\Debug\DAO.csproj.CopyComplete
 D:\Documentos\Repositorios\GuateComprasOf\DAO\obj\Debug\DAO.dll
 D:\Documentos\Repositorios\GuateComprasOf\DAO\obj\Debug\DAO.pdb
+C:\Users\ragonzalez\Documents\GuateCompras\DAO\bin\Debug\DAO.dll
+C:\Users\ragonzalez\Documents\GuateCompras\DAO\bin\Debug\DAO.pdb
+C:\Users\ragonzalez\Documents\GuateCompras\DAO\bin\Debug\Clases.dll
+C:\Users\ragonzalez\Documents\GuateCompras\DAO\bin\Debug\MySql.Data.dll
+C:\Users\ragonzalez\Documents\GuateCompras\DAO\bin\Debug\Clases.pdb
+C:\Users\ragonzalez\Documents\GuateCompras\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\ragonzalez\Documents\GuateCompras\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\ragonzalez\Documents\GuateCompras\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\ragonzalez\Documents\GuateCompras\DAO\obj\Debug\DAO.dll
+C:\Users\ragonzalez\Documents\GuateCompras\DAO\obj\Debug\DAO.pdb

@@ -46,3 +46,4 @@ D:\Documentos\Repositorios\GuateCompras\SysCoN\CodigoFuente\SysCoNPresentacion\o
 D:\Documentos\Repositorios\GuateCompras\SysCoN\CodigoFuente\SysCoNPresentacion\obj\Debug\SysCoNPresentacion.exe
 D:\Documentos\Repositorios\GuateCompras\SysCoN\CodigoFuente\SysCoNPresentacion\obj\Debug\SysCoNPresentacion.pdb
 D:\Documentos\Repositorios\GuateComprasOf\SysCoNPresentacion\obj\Debug\SysCoNPresentacion.csproj.AssemblyReference.cache
+C:\Users\ragonzalez\Documents\GuateCompras\SysCoNPresentacion\obj\Debug\SysCoNPresentacion.csproj.AssemblyReference.cache

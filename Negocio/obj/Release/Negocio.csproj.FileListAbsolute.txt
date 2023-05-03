@@ -16,3 +16,14 @@ K:\SysCoN\CodigoFuente\Negocio\bin\Release\DAO.pdb
 K:\SysCoN\CodigoFuente\Negocio\obj\Release\Negocio.csprojResolveAssemblyReference.cache
 K:\SysCoN\CodigoFuente\Negocio\obj\Release\Negocio.dll
 K:\SysCoN\CodigoFuente\Negocio\obj\Release\Negocio.pdb
+C:\Users\ragonzalez\Documents\GuateCompras\Negocio\bin\Release\Negocio.dll
+C:\Users\ragonzalez\Documents\GuateCompras\Negocio\bin\Release\Negocio.pdb
+C:\Users\ragonzalez\Documents\GuateCompras\Negocio\bin\Release\Clases.dll
+C:\Users\ragonzalez\Documents\GuateCompras\Negocio\bin\Release\DAO.dll
+C:\Users\ragonzalez\Documents\GuateCompras\Negocio\bin\Release\Clases.pdb
+C:\Users\ragonzalez\Documents\GuateCompras\Negocio\bin\Release\DAO.pdb
+C:\Users\ragonzalez\Documents\GuateCompras\Negocio\obj\Release\Negocio.csproj.AssemblyReference.cache
+C:\Users\ragonzalez\Documents\GuateCompras\Negocio\obj\Release\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ragonzalez\Documents\GuateCompras\Negocio\obj\Release\Negocio.csproj.CopyComplete
+C:\Users\ragonzalez\Documents\GuateCompras\Negocio\obj\Release\Negocio.dll
+C:\Users\ragonzalez\Documents\GuateCompras\Negocio\obj\Release\Negocio.pdb

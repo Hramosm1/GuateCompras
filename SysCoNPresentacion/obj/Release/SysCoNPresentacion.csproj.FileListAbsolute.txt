@@ -43,3 +43,4 @@ K:\SysCoN\CodigoFuente\SysCoNPresentacion\obj\Release\SysCoNPresentacion.exe.man
 K:\SysCoN\CodigoFuente\SysCoNPresentacion\obj\Release\SysCoNPresentacion.application
 K:\SysCoN\CodigoFuente\SysCoNPresentacion\obj\Release\SysCoNPresentacion.exe
 K:\SysCoN\CodigoFuente\SysCoNPresentacion\obj\Release\SysCoNPresentacion.pdb
+C:\Users\ragonzalez\Documents\GuateCompras\SysCoNPresentacion\obj\Release\SysCoNPresentacion.csproj.AssemblyReference.cache

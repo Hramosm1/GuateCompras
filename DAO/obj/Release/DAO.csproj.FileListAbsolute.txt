@@ -14,3 +14,13 @@ K:\SysCoN\CodigoFuente\DAO\bin\Release\Clases.pdb
 K:\SysCoN\CodigoFuente\DAO\obj\Release\DAO.csprojResolveAssemblyReference.cache
 K:\SysCoN\CodigoFuente\DAO\obj\Release\DAO.dll
 K:\SysCoN\CodigoFuente\DAO\obj\Release\DAO.pdb
+C:\Users\ragonzalez\Documents\GuateCompras\DAO\bin\Release\DAO.dll
+C:\Users\ragonzalez\Documents\GuateCompras\DAO\bin\Release\DAO.pdb
+C:\Users\ragonzalez\Documents\GuateCompras\DAO\bin\Release\Clases.dll
+C:\Users\ragonzalez\Documents\GuateCompras\DAO\bin\Release\MySql.Data.dll
+C:\Users\ragonzalez\Documents\GuateCompras\DAO\bin\Release\Clases.pdb
+C:\Users\ragonzalez\Documents\GuateCompras\DAO\obj\Release\DAO.csproj.AssemblyReference.cache
+C:\Users\ragonzalez\Documents\GuateCompras\DAO\obj\Release\DAO.csproj.CoreCompileInputs.cache
+C:\Users\ragonzalez\Documents\GuateCompras\DAO\obj\Release\DAO.csproj.CopyComplete
+C:\Users\ragonzalez\Documents\GuateCompras\DAO\obj\Release\DAO.dll
+C:\Users\ragonzalez\Documents\GuateCompras\DAO\obj\Release\DAO.pdb

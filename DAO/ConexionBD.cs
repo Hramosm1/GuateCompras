@@ -26,10 +26,28 @@ namespace DAO
         static string ConnectionToMySql()
         {
 
-           // lee();
+            string Server,Database,User,Password;
+
+
+#if TRACE && !DEBUG
+
+            Server = "192.168.8.6";
+            Database = "consultagc";
+            User = "investigacion";
+            Password = "vWCZ3UHg";
+
+#elif DEBUG && TRACE
+            Server = "192.168.8.8";
+            Database = "consultagc";
+            User = "investigacion";
+            Password = "vWCZ3UHg";       
+#endif
+
+
+            // lee();
             //return connectionString = @"Data Source=SERVIDOR\SQLEXPRESS;Initial Catalog=consultagc;User ID=sa;Password=Sql@dmin"; ;
-            return connectionString = @"Data Source= 192.168.8.6; Initial Catalog = consultagc; User ID=investigacion; Password = vWCZ3UHg"; //PROD
-            //return connectionString = @"Data Source= 192.168.8.8; Initial Catalog = consultagc; User ID=investigacion1; Password = vWCZ3UHg"; //DESA
+            //return connectionString = @"Data Source= 192.168.8.6; Initial Catalog = consultagc; User ID=investigacion; Password = vWCZ3UHg"; //PROD
+            return connectionString = @"Data Source= "+Server+"; Initial Catalog = "+Database+"; User ID="+User+"; Password = "+ Password; //DESA
         }
         //protected MySqlConnection GetConnection()
         //{

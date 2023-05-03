@@ -3,3 +3,8 @@ K:\SysCoN\Clases\bin\Release\Clases.pdb
 K:\SysCoN\Clases\obj\Release\Clases.dll
 K:\SysCoN\Clases\obj\Release\Clases.pdb
 K:\SysCoN\Clases\obj\Release\Clases.csprojResolveAssemblyReference.cache
+C:\Users\ragonzalez\Documents\GuateCompras\Clases\bin\Release\Clases.dll
+C:\Users\ragonzalez\Documents\GuateCompras\Clases\bin\Release\Clases.pdb
+C:\Users\ragonzalez\Documents\GuateCompras\Clases\obj\Release\Clases.csproj.CoreCompileInputs.cache
+C:\Users\ragonzalez\Documents\GuateCompras\Clases\obj\Release\Clases.dll
+C:\Users\ragonzalez\Documents\GuateCompras\Clases\obj\Release\Clases.pdb
